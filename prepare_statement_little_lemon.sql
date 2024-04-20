@@ -1,0 +1,1 @@
+PREPARE GetOrderDetail FROM 'SELECT orders.OrderId, orders.Quantity,orders.TotalCost FROM orders';
